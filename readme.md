@@ -7,6 +7,11 @@ Simple SD3 offers a lightweight web interface to Stable Diffusion 3 using Gradio
   <figcaption>Main UI</figcaption>
 </figure>
 
+<figure>
+  <img src="docs/resources/generated_image_example_1.png" alt="Example image">
+  <figcaption>A generated image example</figcaption>
+</figure>
+
 # Hardware & software requirements
 This was only tested on Ubuntu with NVIVIA RTX 4090, so it's unclear if it works on a host with less GPU memory or a different OS.
 
