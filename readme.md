@@ -11,7 +11,7 @@ Simple SD3 offers a lightweight web interface to Stable Diffusion 3 using Gradio
 This was only tested on Ubuntu with NVIVIA RTX 4090, so it's unclear if it works on a host with less GPU memory or a different OS.
 
 Using nvidia-smi command, I see:
-17320MiB after starting up the app
+17320MiB after starting up the app, 
 21842MiB after image generation
 
 and it's unclear if it uses less VRAM if available memory is lower.
